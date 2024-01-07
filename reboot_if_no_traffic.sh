@@ -61,4 +61,4 @@ reboot_if_no_traffic() {
     done
 }
 
-reboot_if_no_traffic()
+reboot_if_no_traffic
